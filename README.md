@@ -1,9 +1,7 @@
 # Olá! Eu sou o Douglas Nunes 👋
 ## Sejam bem-vindos ao meu perfil...
 
-[![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=douglasfnunes)](https://github.com/douglasfnunes)
-
-
+<div>
 <a href="https://github.com/douglasfnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasfnunes&show_icons=true&theme=radical" />
 </a>
@@ -11,6 +9,7 @@
 <a href="https://github.com/douglasfnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfnunes&layout=compact&theme=radical" />
 </a>
+</div>
 
 
 ### 🛠️ Tecnologias que mais uso
@@ -23,8 +22,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
 </div>
 
+### 🛠️ Minhas redes sociais
 
-<div align="center">
+<div>
   <!-- GitHub -->
   <a href="https://github.com/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
